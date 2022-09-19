@@ -1,0 +1,23 @@
+<?xml version="1.0"?><svg width="410.667" height="138.667" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1755">
+   <stop offset="0" stop-color="#c6db0c" id="stop1756"/>
+   <stop offset="1" stop-color="#6a7606" id="stop1757"/>
+  </linearGradient>
+  <linearGradient xlink:href="#linearGradient1755" y2="0.99059" x2="0.505159" y1="0.009408" x1="0.505159" id="linearGradient1686"/>
+  <linearGradient y2="1" x2="0" id="svg_1">
+   <stop offset="0" stop-color="#ffff00"/>
+   <stop offset="0.5625" stop-opacity="0.996094" stop-color="#e5d637"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1">
+   <g id="g5828">
+    <rect ry="56.1431" rx="57.5827" height="113.726" width="368.529" y="7.9564" x="8.6374" stroke-width="6.25" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke-dashoffset="0" stroke="url(#linearGradient1686)" fill-rule="nonzero" fill="url(#svg_1)" id="rect1061"/>
+    <rect ry="38.8065" rx="48.2255" height="80.6685" width="343.508" y="15.6074" x="21.4224" stroke-width="6.25" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke-dashoffset="0" fill-rule="nonzero" fill="url(#svg_1)" id="rect1758"/>
+   </g>
+  </g>
+  <text xml:space="preserve" y="59.823" x="179.333" transform="matrix(3.02846 0 0 2.55942 -346.76 -67.6183)" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" style="cursor: move; pointer-events: inherit;" font-weight="bold" font-size="24" font-family="Comic Sans MS" id="svg_2">start</text>
+ </g>
+</svg>
